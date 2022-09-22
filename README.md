@@ -6,4 +6,4 @@ Here I simulate the flocking behaviour of animals using an agent based model. Th
 - Alignment: steer towards the average heading of local flocakmates  
 - Cohersion: steer to move toward the average position of local flockmates"
 
-This simuation is based on teh one found at https://agentpy.readthedocs.io/en/latest/agentpy_flocking.html
+This simuation is based on the one found at https://agentpy.readthedocs.io/en/latest/agentpy_flocking.html
